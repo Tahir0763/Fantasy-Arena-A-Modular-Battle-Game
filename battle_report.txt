@@ -1,0 +1,39 @@
+=== Welcome to Dragon's Den Arena! ===
+Environment Effect: fire
+
+---- Turn 1 ----
+s's turn:
+s attacked s
+s used their special ability
+s HP: 120
+s HP: 55
+
+---- Turn 2 ----
+s's turn:
+s attacked s
+s used their special ability
+s HP: 80
+s HP: 75
+
+---- Turn 3 ----
+s's turn:
+s attacked s
+s used their special ability
+s HP: 80
+s HP: 20
+
+---- Turn 4 ----
+s's turn:
+s attacked s
+s used their special ability
+s HP: 40
+s HP: 40
+
+---- Turn 5 ----
+s's turn:
+s attacked s
+s used their special ability
+s HP: 40
+s HP: 0
+
+s wins the battle!
